@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dza59&label=Profile%20views&color=0e75b6&style=flat" alt="dza59" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://dannizhang.me](https://dannizhang.me)
+- 👨‍💻 About me [https://dannizhang.me](https://dannizhang.me)
 
-- 📫 How to reach me **zdn.zhang@gmail.com**
+- 📫 Reach me **zdn.zhang@gmail.com**
 
-- 📄 Know about my experiences [https://dannizhang.me/Software-Engineer-Danni-Resume.pdf](https://dannizhang.me/Software-Engineer-Danni-Resume.pdf)
+- 📄 Download Resume [https://dannizhang.me/Software-Engineer-Danni-Resume.pdf](https://dannizhang.me/Software-Engineer-Danni-Resume.pdf)
 
 - ⚡ Fun fact **If you want to walk fast, walk alone. But if you want to walk far, walk together**
 
