@@ -5,11 +5,11 @@
 
 - 👨‍💻 About me [https://dannizhang.me](https://dannizhang.me)
 
-- 📫 Reach me **zdn.zhang@gmail.com**
+- 📫🤸🏻‍♀ Reach me **zdn.zhang@gmail.com**
 
 - 📄 Download Resume [https://dannizhang.me/Software-Engineer-Danni-Resume.pdf](https://dannizhang.me/Software-Engineer-Danni-Resume.pdf)
 
-- ⚡ Fun fact **If you want to walk fast, walk alone. But if you want to walk far, walk together**
+- ⚡ Fun fact **Optimism changes life. At least, it worked for me 🤸🏻‍♀️👽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
