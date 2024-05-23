@@ -5,7 +5,7 @@
 
 - 👨‍💻 About me [https://dannizhang.me](https://dannizhang.me)
 
-- 📫🤸🏻‍♀ Reach me **zdn.zhang@gmail.com**
+- 📫 Reach me **zdn.zhang@gmail.com**
 
 - 📄 Download Resume [https://dannizhang.me/Software-Engineer-Danni-Resume.pdf](https://dannizhang.me/Software-Engineer-Danni-Resume.pdf)
 
