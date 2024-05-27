@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **Optimism changes life. At least, it worked for me 🤸🏻‍♀️👽**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zhangdanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zhangdanni" height="30" width="40" /></a>
@@ -46,9 +47,12 @@
 
 </p>
 
+<h3 align="left">Online Certifications:</h3>
 
+[![trophy](https://github-coursera-trophy.vercel.app/certifications?ids=RBGLLZXRW7TA%2CXANTYGAD4JM4%2CX93MXETCCH3S)](https://github-coursera-trophy-app.vercel.app/)
+
+PS: I created the Certifications Trophy Generator. Feel free to check it out and use it for Coursera certifications you've earned!
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dza59&show_icons=true&locale=en&layout=compact" alt="dza59" /></p>
-
 
